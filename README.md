@@ -1,10 +1,10 @@
 # Employee-Management-System
 
-#Overview
+## Overview
 
 The Employee Management System is a web application designed to efficiently manage employee data. This system allows administrators and employees to log in through role-based access and perform various operations based on their privileges. The system is developed using React for the frontend and Spring Boot for the backend, providing a comprehensive platform for managing employee records, including personal, professional, project, and financial details.
 
-#Key Features
+## Key Features
 
 Role-Based Login
 
@@ -26,13 +26,13 @@ Professional Details: Employment code, office address, reporting manager, HR nam
 Project Details: Project code, project name, client details, and reporting manager.
 Finance Details: PAN, Aadhar, bank details, and salary slips.
 
-#Technology Stack
+## Technology Stack
 
 Frontend: React.js
 Backend: Spring Boot
 Database: MySQL
 
-#Project Structure
+## Project Structure
 
 Admin Features:
 
