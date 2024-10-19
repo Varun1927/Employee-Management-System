@@ -6,7 +6,7 @@ The Employee Management System is a web application designed to efficiently mana
 
 ## Key Features
 
-Role-Based Login
+#### Role-Based Login
 
 Admins and Employees must log in using their company email ID and password.
 Upon verification, users are directed to either the Admin or Employee dashboard based on their role.
@@ -34,7 +34,7 @@ Database: MySQL
 
 ## Project Structure
 
-Admin Features:
+#### Admin Features:
 
 View all employee details
 Add new employees
@@ -42,7 +42,7 @@ Update employee information
 Delete employee records
 View and generate employee payslips
 
-Employee Features:
+#### Employee Features:
 
 View personal and professional details
 Download monthly payslips
